@@ -1,0 +1,2 @@
+# License
+This document is licenced under the MIT license.
